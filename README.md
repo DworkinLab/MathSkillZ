@@ -21,13 +21,19 @@ Obviously [Khan Academy](https://www.khanacademy.org/) is a great place to start
  
 ### Algebra (pre-University review)
 - [Algebra](https://www.khanacademy.org/math/algebra). Pretty much all of it (review of high school math).
---[Algebra Basics](https://www.khanacademy.org/math/algebra-basics)
---[Fundamental algebra](https://www.khanacademy.org/math/algebra)
---[Slightly more advanced algebra](https://www.khanacademy.org/math/algebra2)
+    -[Algebra Basics](https://www.khanacademy.org/math/algebra-basics)
+    - [Fundamental algebra](https://www.khanacademy.org/math/algebra)
+    - [Slightly more advanced algebra](https://www.khanacademy.org/math/algebra2)
 
 ### [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 - [Vectors and Spaces](https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces). Vectors, linear combinations, linear dependence, subspaces, vector dot and cross products.
-- []
+- [Matrix Transformations](https://www.khanacademy.org/math/linear-algebra/matrix_transformations)
+- [Alternative Coordinate systems](https://www.khanacademy.org/math/linear-algebra/alternate_bases). In particular orthogonal projections, change of basis and "eigen-everything".
+
+### [Probability and Statistics](https://www.khanacademy.org/math/linear-algebra/alternate_bases)
+- Everything is probably useful.
+- Also check out my own stuff on this [here](https://github.com/DworkinLab/CSE845_R_tutorials). Some have screencasts on youotube.
+
 
 
 
