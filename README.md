@@ -30,7 +30,7 @@ Obviously [Khan Academy](https://www.khanacademy.org/) is a great place to start
 - [Matrix Transformations](https://www.khanacademy.org/math/linear-algebra/matrix_transformations)
 - [Alternative Coordinate systems](https://www.khanacademy.org/math/linear-algebra/alternate_bases). In particular orthogonal projections, change of basis and "eigen-everything".
 
-### [Probability and Statistics](https://www.khanacademy.org/math/linear-algebra/alternate_bases)
+### [Probability and Statistics](https://www.khanacademy.org/math/probability)
 - Everything is probably useful.
 - Also check out my own stuff on this [here](https://github.com/DworkinLab/CSE845_R_tutorials). Some have screencasts on youotube.
 
