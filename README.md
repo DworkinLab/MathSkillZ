@@ -9,7 +9,7 @@ What sorts of mathematical skills are so important?
 - Geometry (morphometrics, quantitative genetics, evolutionary biology and statistics).
 - Linear algebra (morphometrics, quantitative genetics, evolutionary biology and statistics).
 - Basic Probability theory
-- Basic differential calculas, integral calculas and simple ordinary differential equations.
+- Basic differential calculus, integral calculus and simple ordinary differential equations.
 
 
 ## online
